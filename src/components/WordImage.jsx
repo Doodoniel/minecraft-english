@@ -8,14 +8,14 @@ function PixelEmoji({ emoji, label }) {
   useEffect(() => {
     const canvas = ref.current;
     if (!canvas) return;
-    const SAMPLE = 22; // lower = blockier
+    const SAMPLE = 48; // lower = blockier
     const off = document.createElement('canvas');
     off.width = off.height = SAMPLE;
     const octx = off.getContext('2d');
     octx.textAlign = 'center';
     octx.textBaseline = 'middle';
-    octx.font = `${SAMPLE - 3}px 'Segoe UI Emoji', 'Apple Color Emoji', serif`;
-    octx.fillText(emoji, SAMPLE / 2, SAMPLE / 2 + 1);
+    octx.font = `${SAMPLE - 6}px 'Segoe UI Emoji', 'Apple Color Emoji', serif`;
+    octx.fillText(emoji, SAMPLE / 2, SAMPLE / 2 + 2);
 
     const ctx = canvas.getContext('2d');
     ctx.imageSmoothingEnabled = false;
@@ -26,8 +26,8 @@ function PixelEmoji({ emoji, label }) {
   return (
     <canvas
       ref={ref}
-      width={176}
-      height={176}
+      width={384}
+      height={384}
       className="pixel-emoji"
       role="img"
       aria-label={label}

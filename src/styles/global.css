@@ -217,7 +217,8 @@ body::before {
 .visual img {
   max-width: 100%;
   max-height: 100%;
-  image-rendering: pixelated;
+  /* user photos stay sharp; only the emoji fallback is pixelated */
+  image-rendering: auto;
 }
 
 .visual .pixel-emoji {
