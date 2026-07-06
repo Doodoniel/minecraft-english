@@ -221,10 +221,9 @@ body::before {
   image-rendering: auto;
 }
 
-.visual .pixel-emoji {
-  width: 100%;
-  height: 100%;
-  image-rendering: pixelated;
+.visual .emoji {
+  font-size: calc(var(--vs, 150px) * 0.72);
+  line-height: 1;
 }
 
 /* ---------- Home ---------- */
