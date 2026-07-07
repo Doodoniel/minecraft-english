@@ -54,7 +54,7 @@ export const WORDS = [
   { word: 'milk',     emoji: '🥛', cat: 'food' },
   { word: 'cake',     emoji: '🎂', cat: 'food' },
   { word: 'cookie',   emoji: '🍪', cat: 'food' },
-  { word: 'melon',    emoji: '🍉', cat: 'food' },
+  { word: 'watermelon', emoji: '🍉', cat: 'food' },
   { word: 'egg',      emoji: '🥚', cat: 'food' },
   { word: 'mushroom', emoji: '🍄', cat: 'food' },
 ];

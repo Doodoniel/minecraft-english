@@ -10,4 +10,4 @@ Put word pictures here!
 fish, bee, spider, bat, tree, flower, grass, water, stone, wood, mountain,
 snow, rain, sun, moon, star, fire, axe, sword, bucket, torch, bed, door,
 boat, ladder, map, book, clock, chest, key, arrow, apple, bread, carrot,
-potato, milk, cake, cookie, melon, egg, mushroom
+potato, milk, cake, cookie, watermelon, egg, mushroom
