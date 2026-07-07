@@ -137,13 +137,13 @@ apple.png
 Generate an image: a red apple with a green leaf, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
 
 bread.png
-Generate an image: a golden-brown loaf of bread, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+Generate an image: a classic loaf of bread with golden-brown crust and three diagonal cut lines on top, slightly elongated shape, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
 
 carrot.png
 Generate an image: an orange carrot with green leafy top, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
 
 potato.png
-Generate an image: a brown potato, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+Generate an image: two raw potatoes, oval lumpy shape, light yellow-tan skin with small dark dimples (potato eyes) and one tiny green sprout on top, one big potato and one small next to it, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Objects centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
 
 milk.png
 Generate an image: a glass of white milk, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
