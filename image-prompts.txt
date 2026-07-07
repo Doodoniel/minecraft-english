@@ -1,0 +1,164 @@
+ПРОМТЫ ДЛЯ ГЕНЕРАЦИИ КАРТИНОК (ChatGPT / DALL-E)
+=================================================
+Копируй промт целиком, один промт = одна картинка.
+Скачанный файл переименуй в точное имя (указано перед промтом),
+маленькими буквами, и положи в public/assets/images/
+
+Если фон получился "шахматной клеткой" вместо прозрачного, ответь:
+The background must be a truly transparent alpha channel, not a checkerboard pattern. Regenerate the same image.
+
+--- ЖИВОТНЫЕ ---
+
+cow.png
+Generate an image: a white cow with black spots, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+pig.png
+Generate an image: a pink pig with a round snout, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+sheep.png
+Generate an image: a white fluffy sheep, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+chicken.png
+Generate an image: a white chicken with a red comb and yellow beak, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+horse.png
+Generate an image: a brown horse with a dark mane, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+rabbit.png
+Generate an image: a light brown rabbit with long ears, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+wolf.png
+Generate an image: a gray wolf standing, friendly look, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+cat.png
+Generate an image: an orange tabby cat sitting, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+fish.png
+Generate an image: a blue and silver fish seen from the side, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+bee.png
+Generate an image: a yellow and black striped bee with small wings, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+spider.png
+Generate an image: a black spider with eight legs, cute and not scary, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+bat.png
+Generate an image: a dark gray bat with spread wings, cute and not scary, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+--- ПРИРОДА ---
+
+tree.png
+Generate an image: a tree with a brown blocky trunk and cubic green foliage, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+flower.png
+Generate an image: a red flower with a green stem and leaves, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+grass.png
+Generate an image: a tuft of green grass blades growing from a small block of dirt, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+water.png
+Generate an image: a cube-shaped block of blue water with a wavy top surface, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+stone.png
+Generate an image: a gray blocky stone boulder, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+wood.png
+Generate an image: two stacked wooden logs with visible tree rings on the cut ends, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+mountain.png
+Generate an image: a gray blocky mountain with a white snowy peak, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+snow.png
+Generate an image: a white crystal snowflake, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+rain.png
+Generate an image: a gray cloud with blue raindrops falling from it, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+sun.png
+Generate an image: a bright yellow sun with blocky rays, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+moon.png
+Generate an image: a pale yellow crescent moon, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+star.png
+Generate an image: a golden yellow five-pointed star, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+fire.png
+Generate an image: an orange and red blocky campfire flame, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+--- ПРЕДМЕТЫ ---
+
+axe.png
+Generate an image: an axe with a wooden handle and a gray iron blade, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+sword.png
+Generate an image: a sword with a gray-blue blade and a brown handle, held upright diagonally, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+bucket.png
+Generate an image: a gray metal bucket with a handle, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+torch.png
+Generate an image: a wooden stick torch with a bright orange flame on top, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+bed.png
+Generate an image: a bed with a red blanket and a white pillow, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+door.png
+Generate an image: a wooden door with panels and a small handle, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+boat.png
+Generate an image: a small wooden rowing boat with an oar, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+ladder.png
+Generate an image: a wooden ladder with rungs, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+map.png
+Generate an image: an unfolded paper map with simple drawn terrain and a red X mark, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+book.png
+Generate an image: a closed book with a brown leather cover, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+clock.png
+Generate an image: a round golden clock with a face and two hands, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+key.png
+Generate an image: a golden key, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+arrow.png
+Generate an image: an arrow with a gray flint tip and white feather fletching, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+(chest.png уже есть в игре — при желании можно сгенерировать и заменить:)
+chest.png
+Generate an image: a wooden treasure chest with a metal latch, closed, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+--- ЕДА ---
+
+apple.png
+Generate an image: a red apple with a green leaf, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+bread.png
+Generate an image: a golden-brown loaf of bread, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+carrot.png
+Generate an image: an orange carrot with green leafy top, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+potato.png
+Generate an image: a brown potato, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+milk.png
+Generate an image: a glass of white milk, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+cake.png
+Generate an image: a white frosted cake with a red cherry on top, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+cookie.png
+Generate an image: a round cookie with chocolate chips, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+watermelon.png
+Generate an image: a watermelon slice with red flesh, black seeds and green rind, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+egg.png
+Generate an image: a single white egg, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
+
+mushroom.png
+Generate an image: a red mushroom with white spots on the cap, in Minecraft-inspired voxel pixel art style: blocky cube-like shapes, flat bright colors, simple 2-tone shading, no gradients. Single object centered, filling 80% of a square frame. Truly transparent PNG background (real alpha channel, no checkerboard, no white). No text, no watermark, no shadow, no background elements. Cheerful icon for a kids' game.
