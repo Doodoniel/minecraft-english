@@ -1,5 +1,7 @@
 # ⛏️ Minecraft English
 
+**🎮 Играть онлайн: https://doodoniel.github.io/minecraft-english/**
+
 Красочная интерактивная игра в стиле Minecraft для изучения английских слов на уроке (для детей-начинающих). Все слова общие (cow, axe, tree, apple...), сгруппированы по категориям: Animals, Nature, Items, Food.
 
 ## Режимы
@@ -20,6 +22,7 @@
 npm install     # один раз
 npm run dev     # запустить для разработки (http://localhost:5173)
 npm run build   # собрать готовую версию в папку dist/
+npm run deploy  # опубликовать на GitHub Pages
 ```
 
 Собранную папку `dist/` можно открыть на любом компьютере (лучше через любой локальный сервер, но благодаря `base: './'` работает и просто открытием `index.html`).
