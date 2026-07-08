@@ -311,6 +311,12 @@ body::before {
 }
 
 .mode-icon  { font-size: clamp(34px, 5.5vmin, 52px); }
+
+.mode-icon-img {
+  width: clamp(42px, 7vmin, 68px);
+  height: clamp(42px, 7vmin, 68px);
+  object-fit: contain;
+}
 .mode-label { font-size: clamp(15px, 2.4vmin, 22px); }
 .mode-desc  { font-size: clamp(9px, 1.5vmin, 13px); opacity: 0.85; }
 

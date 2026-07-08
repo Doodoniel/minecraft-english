@@ -1,6 +1,22 @@
+import { useState } from 'react';
 import TopBar from '../components/TopBar';
 import { CATEGORIES, getWords } from '../data/words';
 import { sfx } from '../utils/sfx';
+
+// Mode icon from public/assets/icons/<id>.png, falling back to the emoji.
+function ModeIcon({ id, emoji }) {
+  const [failed, setFailed] = useState(false);
+  if (failed) return <span className="mode-icon">{emoji}</span>;
+  return (
+    <img
+      className="mode-icon-img"
+      src={`${import.meta.env.BASE_URL}assets/icons/${id}.png`}
+      alt=""
+      draggable={false}
+      onError={() => setFailed(true)}
+    />
+  );
+}
 
 const MODES = [
   { id: 'learn',  icon: '🃏', label: 'LEARN',      desc: 'Flashcards',      color: 'green'  },
@@ -41,7 +57,7 @@ export default function Home({ category, setCategory, setScreen, knownCount }) {
             className={`mode-btn mc-btn ${m.color}`}
             onClick={() => { sfx.click(); setScreen(m.id); }}
           >
-            <span className="mode-icon">{m.icon}</span>
+            <ModeIcon id={m.id} emoji={m.icon} />
             <span className="mode-label">{m.label}</span>
             <span className="mode-desc">{m.desc}</span>
           </button>
