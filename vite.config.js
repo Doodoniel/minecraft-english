@@ -5,4 +5,11 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   base: './',
   plugins: [react()],
+  server: {
+    watch: {
+      // don't watch word pictures: files being copied in are briefly locked
+      // on Windows and crash the watcher; a page refresh picks them up anyway
+      ignored: ['**/public/assets/images/**'],
+    },
+  },
 });
