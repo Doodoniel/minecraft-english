@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import TopBar from '../components/TopBar';
 import WordImage from '../components/WordImage';
 import { getWords, shuffle } from '../data/words';
@@ -18,10 +18,17 @@ export default function SoundHunt({ category, goHome }) {
   const [time, setTime] = useState(DURATION);
   const [flash, setFlash] = useState(null); // { word, ok }
 
+  // last few asked words — excluded from the next pick so the same word
+  // is never repeated back-to-back or in a short A-B-A-B loop
+  const recentRef = useRef([]);
+
   const newRound = () => {
     const pool = getWords(category);
     const g = shuffle(pool).slice(0, Math.min(GRID_SIZE, pool.length));
-    const t = g[(Math.random() * g.length) | 0];
+    const fresh = g.filter(w => !recentRef.current.includes(w.word));
+    const candidates = fresh.length ? fresh : g;
+    const t = candidates[(Math.random() * candidates.length) | 0];
+    recentRef.current = [...recentRef.current, t.word].slice(-3);
     setGrid(g);
     setTarget(t);
     setTimeout(() => speak(t.word), 350);
@@ -29,6 +36,7 @@ export default function SoundHunt({ category, goHome }) {
 
   const start = () => {
     sfx.click();
+    recentRef.current = [];
     setScore(0);
     setTime(DURATION);
     setPhase('play');
